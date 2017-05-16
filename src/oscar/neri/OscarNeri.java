@@ -16,7 +16,7 @@ public class OscarNeri {
      */
     public static void main(String[] args) {
         
-        System.out.println("¡Hola mundo!");//sout -> ctrl+spacebar->enter
+        System.out.println("¡Hola mundo cruel!");//sout -> ctrl+spacebar->enter
         
     }
     

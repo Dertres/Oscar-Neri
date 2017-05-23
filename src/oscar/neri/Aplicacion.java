@@ -15,6 +15,8 @@ public class Aplicacion extends javax.swing.JFrame {
      */
     public Aplicacion() {
         initComponents();
+       
+
     }
 
     /**

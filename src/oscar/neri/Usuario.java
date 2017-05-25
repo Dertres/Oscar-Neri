@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 package oscar.neri;
+
 /**
  *
  * @author T-
  */
 public class Usuario {
-    
     float peso;
     float altura;
-    
+           
 }

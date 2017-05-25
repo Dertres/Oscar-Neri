@@ -33,6 +33,7 @@ public class OscarNeri {
         
         System.out.println("El IMC es de "+ imc.calcular(u));
         
+        
     }
     
 }

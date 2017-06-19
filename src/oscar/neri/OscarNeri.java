@@ -5,10 +5,7 @@
  */
 package oscar.neri; //Debe de estar en todos los archivos "java class", de lo contrario no se ejecutará el programa
 
-/**
- *
- * @author T-
- */
+
 public class OscarNeri {
 
     /**

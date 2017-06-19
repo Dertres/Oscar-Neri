@@ -18,7 +18,7 @@ public class ProbarValidaciones {
             ValidarUsuario.validarNoNegativo(x);//no se requiere "new" porque ValidarUsuario es static
             System.out.println("Primero que lanza excepción");
             Usuario u=new Usuario();
-            u.setAltura(-2);
+            u.setAltura(2);
             System.out.println("Excepción de ajuste de altura");
             u.setPeso(80);
             System.out.println("Excepción de ajuste de peso");
